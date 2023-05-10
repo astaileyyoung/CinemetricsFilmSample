@@ -1,0 +1,5 @@
+raw = downloaded directly from cinemetrics
+cleaned = removed those films without title and year
+imdb = added imdb data, thus removing duplicates
+info = with imdb info
+sample = those films with years between 1927 and 1970
